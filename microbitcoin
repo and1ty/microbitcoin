@@ -1,0 +1,18 @@
+#Microbitcoin
+#Doge
+
+link https://zergpool.com/
+
+create account vps
+https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/
+
+#install cmpiner
+  https://github.com/rplant8/cpuminer-opt-rplant/releases/
+
+#linux command
+  wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz
+  tar -xvf cpuminer-opt-linux.tar.gz
+  ./cpminer-sse2 -a power2b -o stratum+tcp://power2b.asia.mine.zergpool.com:7445 -u <WALLET_ADDRESS>.nama-worker -p c=DOGE
+
+
+
